@@ -13,11 +13,11 @@ Es šo progrmmu izveidoju divu iemslu dēļ. Pirmais mērķis bija iemācīties 
 
 Izmantotās Bibliotēkas – selenium,time, PTL, io.
 
-Kā izmantot Programmu -  Programu izmanto palaižot “source.py” izmantojot “Visual Baisc” vai citveidīgu programmu. Programa tad palaidīsies, atvērs Chrome lapu kur veiks darbības lai izveidotu bildi kas ir saglabāta šajā Folderī ar nosaukumu “stitched_screenshot.png” 
+Kā izmantot Programmu -  Programu izmanto atverot "projekts" folderi izmantojot “Visual Studio Code” vai citveidīgu programmu tad palaist failu “source.py” lai sāktu programmu. Programa tad palaidīsies, atvērs Chrome lapu kur veiks darbības lai izveidotu bildi kas ir saglabāta šajā Folderī ar nosaukumu “stitched_screenshot.png” 
 
 Programa var nestrāāt ja lēns internets vai dators, to var risināt atverot programmu un noaimnot mainīgo emergency_pause = 0 uz lielāku skaitli.
 
-Kā strādā programa - 
+Kā strādā programma - 
 
 1. import visas bilbotiekas.
 2. sagatavo programu webscraping.
