@@ -11,9 +11,7 @@ Sākotnējais programmas mērķis bija pavisam savādāks
 Es šo progrmmu izveidoju divu iemslu dēļ. Pirmais mērķis bija iemācīties par WebScraping jo nebija nekāds mājas darbs par šo tēmu tāpēc gribēju ar to iepazīties. Otrais mērķis bija man atvieglot paskatīites Lekciju srakstu es pats vienmēr izmantoju “nodarbibas.rtu.lv” bet tas sarežģīj procesu, jo katru reizi nepieciešams veikt vairākas darbības bezjēdzīgi ar šo programmu es spēju katru mēnesi iegūt pilnu Lekciju srakstu un tad to aizsūīt uz savu mobīlo ierīči kur to var viegli apskatī kā bildi.
 
 
-Izmantotās Bibliotēkas – Progrmas veidošanai galveno kārt tiek izmantota bibloteika selenium kura tiek pielietota Webspraping.
-
-Pārējās bibliotēkas – time, PTL, io.
+Izmantotās Bibliotēkas – selenium,time, PTL, io.
 
 Kā izmantot Programmu -  Programu izmanto palaižot “source.py” izmantojot “Visual Baisc” vai citveidīgu programmu. Programa tad palaidīsies, atvērs Chrome lapu kur veiks darbības lai izveidotu bildi kas ir saglabāta šajā Folderī ar nosaukumu “stitched_screenshot.png” 
 
