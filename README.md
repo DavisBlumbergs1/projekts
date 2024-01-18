@@ -1,7 +1,8 @@
 # projekts
 
-##Projekta mērķis
-#Sākotnējais programmas mērķis bija pavisam savādāks 1. programmas iterācijā bija domāts savākt datus no “nodarbibas.rtu.lv” un to ievadīt Excel(bija pārāk grūti ar WebScraping).
+#Projekta mērķis
+Sākotnējais programmas mērķis bija pavisam savādāks 
+1. programmas iterācijā bija domāts savākt datus no “nodarbibas.rtu.lv” un to ievadīt Excel(bija pārāk grūti ar WebScraping).
 
 2. iterācijā mērķis bija darīt to pašu bet ar “screenshot” un tad bildi aizsūtīt man pašam uz e-mail (nepietika laika, varbūt nākonē bija divi plāni 1. izmantot(simple mail transfer protocol) 2. ar webscraping atrast vienreizējo e-mail adressi un aizsūtīt no tās uz manu e-mail(“✉ Guerrilla Mail - Disposable Temporary E-Mail Address ”)).
 
